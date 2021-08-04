@@ -14,7 +14,7 @@ import { Observable } from 'rxjs';
     `
   ]
 })
-export class HelloComponent {
+export class NextComponent {
   ngOnInit() {
     const sqnc = new Observable(countOnetoTen);
 
